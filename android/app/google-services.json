@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126080225844",
+    "project_id": "chat-sphere-b9622",
+    "storage_bucket": "chat-sphere-b9622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126080225844:android:30a4b983b9d54ca24fb061",
+        "android_client_info": {
+          "package_name": "com.example.chat_sphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB_Rr_m0IAiyHOpoYRnNTheZsSn7JGKdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
